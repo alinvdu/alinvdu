@@ -64,4 +64,23 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/4b8861f1-595e-415c-b332-bc1fbe15393c" width="80">
+    </td>
+    <td style="vertical-align:middle;">
+      <strong>Contact me</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p>
+        Email me: dumitru.alin25@gmail.com
+        Twitter: https://twitter.com/alinvdu
+        Linkedin: https://www.linkedin.com/in/alin-dumitru-464b15100/
+      </p>
+    </td>
+  </tr>
+</table>
