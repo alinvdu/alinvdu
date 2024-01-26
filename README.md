@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/88a658aa-e4a6-4ea0-8d87-d9edac2d3511" width="60">
+      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/88a658aa-e4a6-4ea0-8d87-d9edac2d3511" width="80">
     </td>
     <td style="vertical-align:middle;">
       <strong>About me</strong>
