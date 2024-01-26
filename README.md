@@ -50,7 +50,16 @@
     <td>
       <p></p>
       <p><strong>JS Game with Neural Control</strong></p>
-      <p>Take control of walking a character in 3D in your browser using Emotiv command controls. It offers the ability to train the character walking animation and then play</p>
+      <p>Take control of walking a character in 3D in your browser using Emotiv command controls. It offers the ability to train the character walking animation and then play (https://github.com/alinvdu/js-game-neural-commands)</p>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p></p>
+      <p><strong>Knowledge repositories</strong></p>
+      <p>Different implementations of neural signal processing techniques, reinforcementlearning algorithms, neuromorphic computing, generative AI, or just old plain JS. Check it out in the Repositories</p>
       <p></p>
     </td>
   </tr>
