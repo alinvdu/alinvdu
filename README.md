@@ -16,3 +16,22 @@
     </td>
   </tr>
 </table>
+<br />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/18847f7a-adc8-4e98-8841-b22855d54bff" width="80">
+    </td>
+    <td style="vertical-align:middle;">
+      <strong>Projects  </strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <strong>Neural Art</strong>
+      Generate art images similar to MidJourney directly from neural data (brain EEG) using an Emotiv Epoch X headset. This project is using Dream Diffusion to fine tune a Stable Diffusion model on EEG data and align it with CLIP</td>
+    </td>
+  </tr>
+</table>
+
