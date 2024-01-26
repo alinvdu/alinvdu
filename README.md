@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/4b8861f1-595e-415c-b332-bc1fbe15393c" width="70">
+      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/4b8861f1-595e-415c-b332-bc1fbe15393c" width="60">
     </td>
     <td style="vertical-align:middle;">
       <strong>Contact me</strong>
