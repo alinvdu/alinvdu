@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/18847f7a-adc8-4e98-8841-b22855d54bff" width="100">
+      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/18847f7a-adc8-4e98-8841-b22855d54bff" width="110">
     </td>
     <td style="vertical-align:middle;">
       <strong>Projects  </strong>
