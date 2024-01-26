@@ -29,7 +29,6 @@
   <tr>
     <td></td>
     <td>
-      <br />
       <p><strong>Neural Art</strong></p>
       Generate art images similar to MidJourney directly from neural data (brain EEG) using an Emotiv Epoch X headset. This project is using Dream Diffusion to fine tune a Stable Diffusion model on EEG data and align it with CLIP (Demo here: https://www.youtube.com/watch?v=8v_EB73m6cQ)
     </td>
@@ -37,7 +36,6 @@
   <tr>
     <td></td>
     <td>
-      <br />
       <p><strong>Strawberry UI</strong></p>
       An user interface featuring delicious strawberry, featuring prompts used for ChatGPT and MidJourney to design it. Can be viewed here: https://strawberryui.com/
     </td>
@@ -45,7 +43,6 @@
   <tr>
     <td></td>
     <td>
-      <br />
       <p><strong>JS Game with Neural Control</strong>strong></p>
       <p>Take control of walking a character in 3D in your browser using Emotiv command controls. It offers the ability to train the character walking animation and then play</p>
     </td>
