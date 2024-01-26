@@ -5,7 +5,7 @@
       <img src="https://github.com/alinvdu/alinvdu/assets/16021447/fd9179fc-cdf2-4bd4-b962-508543624027" width="40">
     </td>
     <td style="vertical-align:middle;">
-      <p style="font-size: large;">ABOUT ME</p>
+      <strong>ABOUT ME</strong>
     </td>
   </tr>
 </table>
