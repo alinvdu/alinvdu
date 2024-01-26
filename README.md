@@ -46,7 +46,7 @@
     <td></td>
     <td>
       <br />
-      <p><strong>JS Game with Neural Commands</strong></p>
+      <p><strong>Game w Neural Control</strong></p>
       Take control of walking a character in 3D in your browser using Emotiv command controls. It offers the ability to train the character walking animation and then play
     </td>
   </tr>
