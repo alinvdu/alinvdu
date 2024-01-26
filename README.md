@@ -13,5 +13,4 @@
 I’m a software engineer with a lot of experience on UI/UX and a creative technologist, where I leverage the former skills to build interesting projects at the intersection of different fields such as AI, neuroscience & cognitive science
   </tr>
 </table>
-<p>
 
