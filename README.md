@@ -39,6 +39,7 @@
       <p><strong>Strawberry UI</strong></p>
       An user interface featuring delicious strawberry, featuring prompts used for ChatGPT and MidJourney to design it. Can be viewed here: https://strawberryui.com/
     </td>
+    <br />
   </tr>
   <tr>
     <td></td>
