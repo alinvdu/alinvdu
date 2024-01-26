@@ -29,7 +29,7 @@
   <tr>
     <td></td>
     <td>
-      <strong>Neural Art</strong>
+      <p><strong>Neural Art</strong></p>
       Generate art images similar to MidJourney directly from neural data (brain EEG) using an Emotiv Epoch X headset. This project is using Dream Diffusion to fine tune a Stable Diffusion model on EEG data and align it with CLIP</td>
     </td>
   </tr>
