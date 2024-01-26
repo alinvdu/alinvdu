@@ -1,3 +1,3 @@
 ### Welcome to my Github Page
 
-### <img src="https://github.com/alinvdu/alinvdu/assets/16021447/4d5bd5a3-1d66-4ad7-81ac-0763b76dfca1" width="40">About me
+### <img src="https://github.com/alinvdu/alinvdu/assets/16021447/ca32c2ff-618c-4029-ad1a-428da66b460c" width="40">About me
