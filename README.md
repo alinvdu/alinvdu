@@ -38,7 +38,7 @@
     <td>
       <p><strong>Strawberry UI</strong></p>
       <p>An user interface featuring delicious strawberry, featuring prompts used for ChatGPT and MidJourney to design it. Can be viewed here: https://strawberryui.com/</p>
-      <br />
+      <p></p>
     </td>
   </tr>
   <tr>
