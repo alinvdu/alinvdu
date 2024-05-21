@@ -78,7 +78,7 @@
     <td></td>
     <td>
       <p>
-        <p>Email me: dumitru.alin25@gmail.com</p>
+        <p>Email me: boberg.satoko@gmail.com</p>
         <p>Twitter: https://twitter.com/alinvdu</p>
       </p>
     </td>
