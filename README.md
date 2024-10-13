@@ -66,22 +66,3 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/alinvdu/alinvdu/assets/16021447/4b8861f1-595e-415c-b332-bc1fbe15393c" width="45">
-    </td>
-    <td style="vertical-align:middle;">
-      <strong>Contact me</strong>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-      <p>
-        <p>Email me: boberg.satoko@gmail.com</p>
-        <p>Twitter: https://twitter.com/alinvdu</p>
-      </p>
-    </td>
-  </tr>
-</table>
