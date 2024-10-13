@@ -13,7 +13,8 @@
     <td></td>
     <td>
       <p>
-      I’m a software engineer with a lot of experience on UI/UX and a creative technologist, where I leverage the former skills to build interesting projects at the intersection of different fields such as AI, neuroscience & cognitive science</p>
+        I’m a software engineer with a background in UI/UX, now focusing on AI, cognitive psychology, neural signal processing, and domain-specific programming languages. My current work explores improving reasoning in AI and building projects with an interest in emotion in machines, blending technology with cognitive science.
+</p>
     </td>
   </tr>
 </table>
