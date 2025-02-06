@@ -42,8 +42,8 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>Strawberry UI</strong></p>
-      <p>An user interface featuring delicious strawberry, featuring prompts used for ChatGPT and MidJourney to design it. Can be viewed here: https://strawberryui.com/</p>
+      <p><strong>Zebra Fish connectome></p>
+      <p>Mapping zebra fish connectome in Python with custom 3D brain areas shapes: visualizations, connectivity matrix, conclusions about behavior modulation and sensory information. Check it out: https://github.com/alinvdu/neuromorphic-connectome-approach</p>
       <p></p>
     </td>
   </tr>
