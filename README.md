@@ -42,7 +42,7 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>Zebra Fish connectome></strong></p>
+      <p><strong>Zebra Fish connectome</strong></p>
       <p>Mapping zebra fish connectome in Python with custom 3D brain areas shapes: visualizations, connectivity matrix, conclusions about behavior modulation and sensory information. Check it out: https://github.com/alinvdu/neuromorphic-connectome-approach</p>
       <p></p>
     </td>
