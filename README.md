@@ -31,7 +31,7 @@
   <tr>
     <td></td>
     <td>
-      <p>
+      <p></p>
       <p><strong>Neural Art</strong></p>
       <p>Generate art images similar to MidJourney directly from neural data (brain EEG) using an Emotiv Epoch X headset. This project is using Dream Diffusion to fine tune a Stable Diffusion model on EEG data and align it with CLIP (Demo here: https://www.youtube.com/watch?v=8v_EB73m6cQ)</p>
       <p>The project contains pre-processing stages for data curation & exposes model weights for a Stable Diffusion abstract art model with 5 days of training</p>
@@ -42,7 +42,7 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>Zebra Fish connectome></p>
+      <p><strong>Zebra Fish connectome></strong></p>
       <p>Mapping zebra fish connectome in Python with custom 3D brain areas shapes: visualizations, connectivity matrix, conclusions about behavior modulation and sensory information. Check it out: https://github.com/alinvdu/neuromorphic-connectome-approach</p>
       <p></p>
     </td>
