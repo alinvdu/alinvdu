@@ -13,7 +13,7 @@
     <td></td>
     <td>
       <p>
-        I’m a software engineer with a background in UI/UX, now focusing on AI, cognitive psychology, neural signal processing, and domain-specific programming languages. My current work explores improving reasoning in AI and building projects with an interest in emotion in machines, blending technology with cognitive science.
+        I'm an AI Engineer with extensive background in software engineering, now focusing on AI, cognitive psychology, neural signal processing, and domain-specific programming languages. My current work explores improving reasoning in AI and building projects with an interest in emotion in machines, blending technology with cognitive science.
 </p>
     </td>
   </tr>
@@ -42,7 +42,7 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>JSelf AI - AI Platform for Mental Health Care</strong></p>
+      <p><strong>Self AI - AI Platform for Mental Health Care</strong></p>
       <p>Self AI delivers real-time, low-latency interaction with a 3D virtual avatar fine-tuned for psychology. Built with FastAPI and WebRTC, it instantly transcribes spoken input, analyzes emotional tone, and taps into contextual memory via a Vector Database. A custom GPT model then generates psychologically-aware responses, streamed live with voice, expressions, and gestures. The system ensures data privacy, supports message retention, and can generate immersive background visuals.</p>
       <p>Live at https://selfai.live - Demo <a href="https://youtu.be/Z4px7rKjtIU?si=DJRBwX0wuB7iVHtx&t=83">here</a></p>
       <p>Explore it open-source. <a href="https://github.com/alinvdu/SelfInterface">SelfInterface</a> & <a href="https://github.com/alinvdu/SelfPersona">SelfPersona</a></p>
