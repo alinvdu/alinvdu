@@ -32,10 +32,21 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>Neural Art</strong></p>
+      <p><strong>Neural Art - Generating Art Images from Brain Signals</strong></p>
       <p>Generate art images similar to MidJourney directly from neural data (brain EEG) using an Emotiv Epoch X headset. This project is using Dream Diffusion to fine tune a Stable Diffusion model on EEG data and align it with CLIP (Demo here: https://www.youtube.com/watch?v=8v_EB73m6cQ)</p>
-      <p>The project contains pre-processing stages for data curation & exposes model weights for a Stable Diffusion abstract art model with 5 days of training</p>
+      <p>The project contains pre-processing stages for data curation & exposes model weights for a Stable Diffusion abstract art model with 5 days of training capable of generating art images similar to MidJourney from raw EEG data from an user exposed to image stimuli.</p>
     <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p></p>
+      <p><strong>JSelf AI - AI Platform for Mental Health Care</strong></p>
+      <p>Self AI delivers real-time, low-latency interaction with a 3D virtual avatar fine-tuned for psychology. Built with FastAPI and WebRTC, it instantly transcribes spoken input, analyzes emotional tone, and taps into contextual memory via a Vector Database. A custom GPT model then generates psychologically-aware responses, streamed live with voice, expressions, and gestures. The system ensures data privacy, supports message retention, and can generate immersive background visuals.</p>
+      <p>Live at https://selfai.live - Demo <a href="https://youtu.be/Z4px7rKjtIU?si=DJRBwX0wuB7iVHtx&t=83">here</a></p>
+      <p>Explore it open-source. <a href="https://github.com/alinvdu/SelfInterface">SelfInterface</a> & <a href="https://github.com/alinvdu/SelfPersona">SelfPersona</a></p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -51,17 +62,12 @@
     <td></td>
     <td>
       <p></p>
-      <p><strong>JS Game with Neural Control</strong></p>
-      <p>Take control of walking a character in 3D in your browser using Emotiv command controls. It offers the ability to train the character walking animation and then play (https://github.com/alinvdu/js-game-neural-commands)</p>
-      <p></p>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-      <p></p>
-      <p><strong>Knowledge repositories</strong></p>
-      <p>Different implementations of neural signal processing techniques, reinforcementlearning algorithms, neuromorphic computing, generative AI, or just old plain JS. Check it out in the Repositories</p>
+      <p><strong>PDFToMem - Dynamic Memory Configuration using LlamaIndex & MCP</strong></p>
+      <p>This project integrates some ideas I had regarding how to configure memory representations by using abstractions layers from LlamaIndex. It builds around multi-agent in which an Orchestrator decides between multiple agents that configure data structuring and representation using LangGraph. The memory representation is in form of LlamaIndex vector indices such as SentenceWindow, Semantic, Hierarchical, etc.
+      </p>
+      <p>This process is encapsulated by an MCP server which exposes tools for determining the representation, a storage FastAPI builds the query engine tools and then they can be consumed by the client. Learn more by watching the Demo!</p>
+      <p>Watch video walkthrough <a href="https://www.youtube.com/watch?v=KzMl4TJMBNM">here</a></p>
+      <p>Repository <a href="https://github.com/alinvdu/PdfToMem">here</a></p>
       <p></p>
     </td>
   </tr>
